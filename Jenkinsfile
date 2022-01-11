@@ -1,7 +1,7 @@
 pipeline {
     agent any
     stages {
-        stage("Paso 1: Compliar"){
+        stage("Paso 1: Compliar Ejemplo Webhook"){
             steps {
                 script {
                 sh "echo 'Compile Code!'"

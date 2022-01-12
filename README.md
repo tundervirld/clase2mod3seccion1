@@ -1,5 +1,4 @@
 # Getting Started
-Cambio para subir a Jenkins con Ngrok
 ## Windows
 
 ### Compile Code

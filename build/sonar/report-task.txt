@@ -1,6 +1,0 @@
-projectKey=ejemplo-maven-seccion1
-serverUrl=http://sonarqube:9000
-serverVersion=9.2.4.50792
-dashboardUrl=http://sonarqube:9000/dashboard?id=ejemplo-maven-seccion1
-ceTaskId=AX5azcwsKPuwFpwPW2gL
-ceTaskUrl=http://sonarqube:9000/api/ce/task?id=AX5azcwsKPuwFpwPW2gL
